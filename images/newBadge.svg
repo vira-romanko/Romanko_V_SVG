@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 166.7 167" style="enable-background:new 0 0 166.7 167;" xml:space="preserve" id="badge">
+	 viewBox="0 0 166.7 167" style="enable-background:new 0 0 166.7 167;" xml:space="preserve" >
 <style type="text/css">
 	<!-- just svg markup  like css, just like in html  page-->
 	.st0{opacity:0.7;} 
-	.st1{fill:FFFFFF;}
+	.st1{fill:#FFFFFF;}
 	.st2{fill:#FF0000;}
 	.st3{fill:#999999;}
 	.st4{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.8597,0.8597;}
 	.st5{opacity:0.7;fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+
 </style>
 <g id="background">
 	<g>
